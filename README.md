@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **shyammohan785@gmail.com**
 
-- ⚡ Fun fact **Part-time Batman, Full-time Coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
