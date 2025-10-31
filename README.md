@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django ,Hibernate**
 
-- 💬 Ask me about **Python,Android**
+- 💬 Ask me about **Backend**
 
 - 📫 How to reach me **shyammohan785@gmail.com**
 
